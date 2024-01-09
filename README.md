@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 
+I am a 3rd year student at the University of Cincinnati working on getting a BS in Computer Engineering and a MEng in Computer Science! I have worked 2 co-op rotations with GE Appliances on the Wall Oven and the Commercial AC software teams. Most of my experience is in C, Lua, and C++, but I have also worked with Python and Matlab.
 <!--
 **azylko/azylko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
